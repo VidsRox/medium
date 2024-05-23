@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://medium-backend.vidyun-medium-backend.workers.dev"
