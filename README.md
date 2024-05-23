@@ -6,3 +6,5 @@ A "Medium" like application in the following stack-
     Prisma as the ORM, with connection pooling
     Postgres as the database
     jwt for authentication
+
+Deployed app link- https://medium-xi-umber.vercel.app/signup
